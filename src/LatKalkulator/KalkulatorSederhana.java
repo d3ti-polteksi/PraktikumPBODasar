@@ -7,7 +7,7 @@ package LatKalkulator;
 
 /**
  *
- * @author lenovo
+ * @author d3 Teknologi Informasi Polteksi
  */
 
 import javax.script.ScriptEngine;
